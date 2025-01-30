@@ -1,7 +1,9 @@
+import Form from "../components/form"
+
 
 function Login(){
     return(
-        <div>Login</div>
+        <Form route= "/api/token/" method = "login"/>
     )
 }
 
