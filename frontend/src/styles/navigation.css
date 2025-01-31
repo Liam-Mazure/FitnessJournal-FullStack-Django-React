@@ -1,0 +1,17 @@
+#nav-container{
+    text-decoration: none;
+    background-color: navy;
+    display: flex;
+    flex-direction: row;
+}
+
+#nav-links{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.link{
+    text-decoration: none;
+    color: yellow;
+}
